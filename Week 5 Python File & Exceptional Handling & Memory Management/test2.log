@@ -1,0 +1,234 @@
+2024-01-20 06:12:53,540 root INFO this is my info logging
+2024-01-20 06:12:53,540 root ERROR this is my error message
+2024-01-20 06:18:35,056 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-01-20 06:18:35,103 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-01-20 06:18:39,337 parso.python.diff DEBUG diff parser start
+2024-01-20 06:18:39,337 parso.python.diff DEBUG line_lengths old: 7; new: 7
+2024-01-20 06:18:39,337 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2024-01-20 06:18:39,337 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:18:39,339 parso.python.diff DEBUG parse_part from 3 to 7 (to 6 in part parser)
+2024-01-20 06:18:39,339 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:7]
+2024-01-20 06:18:39,339 parso.python.diff DEBUG diff parser end
+2024-01-20 06:19:58,429 parso.python.diff DEBUG diff parser start
+2024-01-20 06:19:58,430 parso.python.diff DEBUG line_lengths old: 7; new: 9
+2024-01-20 06:19:58,430 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2024-01-20 06:19:58,430 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:19:58,431 parso.python.diff DEBUG parse_part from 3 to 9 (to 8 in part parser)
+2024-01-20 06:19:58,431 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:9]
+2024-01-20 06:19:58,432 parso.python.diff DEBUG diff parser end
+2024-01-20 06:20:41,661 parso.python.diff DEBUG diff parser start
+2024-01-20 06:20:41,662 parso.python.diff DEBUG line_lengths old: 9; new: 12
+2024-01-20 06:20:41,662 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2024-01-20 06:20:41,662 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:20:41,664 parso.python.diff DEBUG parse_part from 3 to 12 (to 11 in part parser)
+2024-01-20 06:20:41,664 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:12]
+2024-01-20 06:20:41,664 parso.python.diff DEBUG diff parser end
+2024-01-20 06:20:44,555 parso.python.diff DEBUG diff parser start
+2024-01-20 06:20:44,555 parso.python.diff DEBUG line_lengths old: 12; new: 12
+2024-01-20 06:20:44,555 parso.python.diff DEBUG -> code[equal] old[1:11] new[1:11]
+2024-01-20 06:20:44,556 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:20:44,558 parso.python.diff DEBUG parse_part from 3 to 12 (to 11 in part parser)
+2024-01-20 06:20:44,558 parso.python.diff DEBUG -> code[replace] old[12:12] new[12:12]
+2024-01-20 06:20:44,558 parso.python.diff DEBUG diff parser end
+2024-01-20 06:21:38,465 parso.python.diff DEBUG diff parser start
+2024-01-20 06:21:38,465 parso.python.diff DEBUG line_lengths old: 12; new: 1
+2024-01-20 06:21:38,465 parso.python.diff DEBUG -> code[replace] old[1:12] new[1:1]
+2024-01-20 06:21:38,466 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-20 06:21:38,466 parso.python.diff DEBUG diff parser end
+2024-01-20 06:23:24,994 parso.python.diff DEBUG diff parser start
+2024-01-20 06:23:24,995 parso.python.diff DEBUG line_lengths old: 1; new: 6
+2024-01-20 06:23:24,995 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:6]
+2024-01-20 06:23:24,996 parso.python.diff DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2024-01-20 06:23:24,996 parso.python.diff DEBUG diff parser end
+2024-01-20 06:23:31,613 parso.python.diff DEBUG diff parser start
+2024-01-20 06:23:31,613 parso.python.diff DEBUG line_lengths old: 6; new: 6
+2024-01-20 06:23:31,613 parso.python.diff DEBUG -> code[equal] old[1:5] new[1:5]
+2024-01-20 06:23:31,613 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:23:31,614 parso.python.diff DEBUG parse_part from 3 to 6 (to 5 in part parser)
+2024-01-20 06:23:31,615 parso.python.diff DEBUG -> code[replace] old[6:6] new[6:6]
+2024-01-20 06:23:31,615 parso.python.diff DEBUG diff parser end
+2024-01-20 06:23:31,638 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2024-01-20 06:24:27,042 parso.python.diff DEBUG diff parser start
+2024-01-20 06:24:27,043 parso.python.diff DEBUG line_lengths old: 6; new: 8
+2024-01-20 06:24:27,043 parso.python.diff DEBUG -> code[equal] old[1:5] new[1:5]
+2024-01-20 06:24:27,043 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:24:27,044 parso.python.diff DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2024-01-20 06:24:27,044 parso.python.diff DEBUG -> code[replace] old[6:6] new[6:8]
+2024-01-20 06:24:27,045 parso.python.diff DEBUG diff parser end
+2024-01-20 06:25:21,628 parso.python.diff DEBUG diff parser start
+2024-01-20 06:25:21,628 parso.python.diff DEBUG line_lengths old: 8; new: 10
+2024-01-20 06:25:21,629 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+2024-01-20 06:25:21,629 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:25:21,630 parso.python.diff DEBUG parse_part from 3 to 10 (to 9 in part parser)
+2024-01-20 06:25:21,630 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:10]
+2024-01-20 06:25:21,631 parso.python.diff DEBUG diff parser end
+2024-01-20 06:26:09,978 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,979 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,979 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,979 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,979 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,979 root INFO i amm inside if statement and i am trying to check list type
+2024-01-20 06:26:09,979 root INFO i am in another for loop for list inside list element
+2024-01-20 06:26:09,979 root INFO i am inside if statement
+2024-01-20 06:26:09,979 root INFO i am in another for loop for list inside list element
+2024-01-20 06:26:09,979 root INFO i am inside if statement
+2024-01-20 06:26:09,979 root INFO i am in another for loop for list inside list element
+2024-01-20 06:26:09,979 root INFO i am inside if statement
+2024-01-20 06:26:09,979 root INFO we are iterating our list and our local var is i
+2024-01-20 06:26:09,980 root INFO we are iterating our list and our local var is i
+2024-01-20 06:27:55,854 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,855 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,855 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,855 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,855 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,855 root INFO i amm inside if statement and i am trying to check list type
+2024-01-20 06:27:55,855 root INFO i am in another for loop for list inside list element
+2024-01-20 06:27:55,855 root INFO i am inside if statement
+2024-01-20 06:27:55,855 root INFO i am in another for loop for list inside list element
+2024-01-20 06:27:55,855 root INFO i am inside if statement
+2024-01-20 06:27:55,856 root INFO i am in another for loop for list inside list element
+2024-01-20 06:27:55,856 root INFO i am inside if statement
+2024-01-20 06:27:55,856 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:27:55,856 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,949 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO i amm inside if statement and i am trying to check list type[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO i am in another for loop for list inside list element[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,950 root INFO i am inside if statement[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO i am in another for loop for list inside list element[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO i am inside if statement[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO i am in another for loop for list inside list element[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO i am inside if statement[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:28:53,951 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,214 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO i amm inside if statement and i am trying to check list type[22, 3, 4]
+2024-01-20 06:30:01,215 root INFO i am in another for loop for list inside list element22
+2024-01-20 06:30:01,215 root INFO i am inside if statement22
+2024-01-20 06:30:01,215 root INFO i am in another for loop for list inside list element3
+2024-01-20 06:30:01,215 root INFO i am inside if statement3
+2024-01-20 06:30:01,215 root INFO i am in another for loop for list inside list element4
+2024-01-20 06:30:01,215 root INFO i am inside if statement4
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:30:01,215 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:28,592 parso.python.diff DEBUG diff parser start
+2024-01-20 06:31:28,592 parso.python.diff DEBUG line_lengths old: 10; new: 5
+2024-01-20 06:31:28,592 parso.python.diff DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-20 06:31:28,593 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:31:28,593 parso.python.diff DEBUG parse_part from 3 to 5 (to 4 in part parser)
+2024-01-20 06:31:28,594 parso.python.diff DEBUG -> code[replace] old[4:10] new[4:5]
+2024-01-20 06:31:28,594 parso.python.diff DEBUG diff parser end
+2024-01-20 06:31:35,533 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:44,650 parso.python.diff DEBUG diff parser start
+2024-01-20 06:31:44,650 parso.python.diff DEBUG line_lengths old: 5; new: 5
+2024-01-20 06:31:44,650 parso.python.diff DEBUG -> code[equal] old[1:4] new[1:4]
+2024-01-20 06:31:44,650 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:31:44,651 parso.python.diff DEBUG parse_part from 3 to 5 (to 4 in part parser)
+2024-01-20 06:31:44,651 parso.python.diff DEBUG -> code[replace] old[5:5] new[5:5]
+2024-01-20 06:31:44,651 parso.python.diff DEBUG diff parser end
+2024-01-20 06:31:46,283 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,283 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,283 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,284 root INFO i amm inside if statement and i am trying to check list type[22, 3, 4]
+2024-01-20 06:31:46,284 root INFO i am in another for loop for list inside list element22
+2024-01-20 06:31:46,285 root INFO i am inside if statement22
+2024-01-20 06:31:46,285 root INFO i am in another for loop for list inside list element3
+2024-01-20 06:31:46,285 root INFO i am inside if statement3
+2024-01-20 06:31:46,285 root INFO i am in another for loop for list inside list element4
+2024-01-20 06:31:46,285 root INFO i am inside if statement4
+2024-01-20 06:31:46,285 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,285 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,285 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:31:46,285 root CRITICAL we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:32:46,239 parso.python.diff DEBUG diff parser start
+2024-01-20 06:32:46,240 parso.python.diff DEBUG line_lengths old: 5; new: 5
+2024-01-20 06:32:46,240 parso.python.diff DEBUG -> code[equal] old[1:4] new[1:4]
+2024-01-20 06:32:46,240 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:32:46,241 parso.python.diff DEBUG parse_part from 3 to 5 (to 4 in part parser)
+2024-01-20 06:32:46,241 parso.python.diff DEBUG -> code[replace] old[5:5] new[5:5]
+2024-01-20 06:32:46,241 parso.python.diff DEBUG diff parser end
+2024-01-20 06:33:01,108 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,108 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,108 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,109 root INFO i amm inside if statement and i am trying to check list type[22, 3, 4]
+2024-01-20 06:33:01,109 root INFO i am in another for loop for list inside list element22
+2024-01-20 06:33:01,109 root INFO i am inside if statement22
+2024-01-20 06:33:01,109 root INFO i am in another for loop for list inside list element3
+2024-01-20 06:33:01,110 root INFO i am inside if statement3
+2024-01-20 06:33:01,110 root INFO i am in another for loop for list inside list element4
+2024-01-20 06:33:01,110 root INFO i am inside if statement4
+2024-01-20 06:33:01,110 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,110 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,110 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:01,110 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:33:43,107 parso.python.diff DEBUG diff parser start
+2024-01-20 06:33:43,108 parso.python.diff DEBUG line_lengths old: 5; new: 18
+2024-01-20 06:33:43,108 parso.python.diff DEBUG -> code[equal] old[1:4] new[1:4]
+2024-01-20 06:33:43,108 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:33:43,112 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2024-01-20 06:33:43,112 parso.python.diff DEBUG -> code[replace] old[5:5] new[5:18]
+2024-01-20 06:33:43,112 parso.python.diff DEBUG diff parser end
+2024-01-20 06:34:53,345 parso.python.diff DEBUG diff parser start
+2024-01-20 06:34:53,346 parso.python.diff DEBUG line_lengths old: 18; new: 18
+2024-01-20 06:34:53,346 parso.python.diff DEBUG -> code[equal] old[1:17] new[1:17]
+2024-01-20 06:34:53,346 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:34:53,350 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2024-01-20 06:34:53,350 parso.python.diff DEBUG -> code[replace] old[18:18] new[18:18]
+2024-01-20 06:34:53,350 parso.python.diff DEBUG diff parser end
+2024-01-20 06:35:09,874 parso.python.diff DEBUG diff parser start
+2024-01-20 06:35:09,874 parso.python.diff DEBUG line_lengths old: 18; new: 18
+2024-01-20 06:35:09,874 parso.python.diff DEBUG -> code[equal] old[1:17] new[1:17]
+2024-01-20 06:35:09,875 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:35:09,878 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2024-01-20 06:35:09,878 parso.python.diff DEBUG -> code[replace] old[18:18] new[18:18]
+2024-01-20 06:35:09,878 parso.python.diff DEBUG diff parser end
+2024-01-20 06:35:18,897 parso.python.diff DEBUG diff parser start
+2024-01-20 06:35:18,897 parso.python.diff DEBUG line_lengths old: 18; new: 18
+2024-01-20 06:35:18,897 parso.python.diff DEBUG -> code[equal] old[1:17] new[1:17]
+2024-01-20 06:35:18,898 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-01-20 06:35:18,901 parso.python.diff DEBUG parse_part from 3 to 18 (to 17 in part parser)
+2024-01-20 06:35:18,901 parso.python.diff DEBUG -> code[replace] old[18:18] new[18:18]
+2024-01-20 06:35:18,901 parso.python.diff DEBUG diff parser end
+2024-01-20 06:35:21,098 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,098 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,098 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,098 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,098 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,099 root INFO i amm inside if statement and i am trying to check list type[22, 3, 4]
+2024-01-20 06:35:21,099 root INFO i am in another for loop for list inside list element22
+2024-01-20 06:35:21,099 root INFO i am inside if statement22
+2024-01-20 06:35:21,099 root INFO i am in another for loop for list inside list element3
+2024-01-20 06:35:21,099 root INFO i am inside if statement3
+2024-01-20 06:35:21,099 root INFO i am in another for loop for list inside list element4
+2024-01-20 06:35:21,099 root INFO i am inside if statement4
+2024-01-20 06:35:21,100 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,100 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,100 root INFO we are iterating our list and our local var is i[1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,100 root CRITICAL we are iterating our list and our local var is [1, 2, 3, 4, [22, 3, 4], 'lokesh', 'mendke']
+2024-01-20 06:35:21,100 root INFO My final result for int is[1, 2, 3, 4, 22, 3, 4] and str is ['lokesh', 'mendke']

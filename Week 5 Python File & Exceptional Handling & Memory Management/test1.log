@@ -1,0 +1,51 @@
+2024-01-20 06:05:04,681 this is my info logging
+2024-01-20 06:05:06,019 this is my error message
+2024-01-20 06:07:55,776 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-01-20 06:07:55,828 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-01-20 06:08:00,911 diff parser start
+2024-01-20 06:08:00,911 line_lengths old: 1; new: 1
+2024-01-20 06:08:00,911 -> code[replace] old[1:1] new[1:1]
+2024-01-20 06:08:00,912 parse_part from 1 to 1 (to 0 in part parser)
+2024-01-20 06:08:00,912 diff parser end
+2024-01-20 06:08:24,169 diff parser start
+2024-01-20 06:08:24,170 line_lengths old: 1; new: 2
+2024-01-20 06:08:24,170 -> code[replace] old[1:1] new[1:2]
+2024-01-20 06:08:24,170 parse_part from 1 to 2 (to 1 in part parser)
+2024-01-20 06:08:24,171 diff parser end
+2024-01-20 06:08:30,324 diff parser start
+2024-01-20 06:08:30,324 line_lengths old: 2; new: 2
+2024-01-20 06:08:30,324 -> code[equal] old[1:1] new[1:1]
+2024-01-20 06:08:30,324 copy old[1:1] new[1:1]
+2024-01-20 06:08:30,324 -> code[replace] old[2:2] new[2:2]
+2024-01-20 06:08:30,324 parse_part from 2 to 2 (to 1 in part parser)
+2024-01-20 06:08:30,325 diff parser end
+2024-01-20 06:08:32,733 diff parser start
+2024-01-20 06:08:32,734 line_lengths old: 2; new: 2
+2024-01-20 06:08:32,734 -> code[equal] old[1:1] new[1:1]
+2024-01-20 06:08:32,734 copy old[1:1] new[1:1]
+2024-01-20 06:08:32,734 -> code[replace] old[2:2] new[2:2]
+2024-01-20 06:08:32,734 parse_part from 2 to 2 (to 1 in part parser)
+2024-01-20 06:08:32,734 diff parser end
+2024-01-20 06:08:43,921 diff parser start
+2024-01-20 06:08:43,921 line_lengths old: 2; new: 2
+2024-01-20 06:08:43,922 -> code[equal] old[1:1] new[1:1]
+2024-01-20 06:08:43,922 copy old[1:1] new[1:1]
+2024-01-20 06:08:43,922 -> code[replace] old[2:2] new[2:2]
+2024-01-20 06:08:43,922 parse_part from 2 to 2 (to 1 in part parser)
+2024-01-20 06:08:43,922 diff parser end
+2024-01-20 06:09:46,772 diff parser start
+2024-01-20 06:09:46,772 line_lengths old: 2; new: 2
+2024-01-20 06:09:46,772 -> code[equal] old[1:1] new[1:1]
+2024-01-20 06:09:46,772 copy old[1:1] new[1:1]
+2024-01-20 06:09:46,772 -> code[replace] old[2:2] new[2:2]
+2024-01-20 06:09:46,773 parse_part from 2 to 2 (to 1 in part parser)
+2024-01-20 06:09:46,773 diff parser end
+2024-01-20 06:10:02,214 diff parser start
+2024-01-20 06:10:02,215 line_lengths old: 2; new: 2
+2024-01-20 06:10:02,215 -> code[equal] old[1:1] new[1:1]
+2024-01-20 06:10:02,215 copy old[1:1] new[1:1]
+2024-01-20 06:10:02,215 -> code[replace] old[2:2] new[2:2]
+2024-01-20 06:10:02,215 parse_part from 2 to 2 (to 1 in part parser)
+2024-01-20 06:10:02,216 diff parser end
+2024-01-20 06:12:01,212 this is my info logging
+2024-01-20 06:12:01,212 this is my error message
